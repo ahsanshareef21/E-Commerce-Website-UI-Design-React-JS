@@ -1,0 +1,27 @@
+.nav1 {
+  display: flex;
+  padding-right: 35px;
+  justify-content: center;
+  margin-inline: 10px;
+  align-items: center;
+}
+.nav2 {
+  margin: 10px;
+}
+
+.head1 {
+  display: flex;
+  align-items: center;
+  flex-direction:column ;
+  justify-content: center;
+  height: 100vh;
+}
+
+.itemhead{
+  color: black;
+}
+
+.cartpic >span {
+  width: 200px;
+  height: 30px;
+}
